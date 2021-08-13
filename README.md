@@ -1,4 +1,4 @@
-# helloworld
+# found_and_seek_app
 
 ## Project setup
 ```

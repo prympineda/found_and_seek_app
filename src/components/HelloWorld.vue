@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'found_and_seek_app',
   props: {
     msg: String
   }
